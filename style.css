@@ -1,0 +1,342 @@
+html, body, * {margin:0; padding:0; border:0; outline:none; color:inherit; text-decoration:none; font-family:inherit;}
+		html, body, * {-webkit-transition:all 0.2s ease; -moz-transition:all 0.2s ease; -ms-transition:all 0.2s ease;
+				-o-transition:all 0.2s ease; transition:all 0.2s ease;}
+		html, body {width:100%; height:100%; background:#eee; font-family:'Calibri', Arial, Sans-serif;}		
+		
+		#header {
+			background:#23282d;
+			background:-webkit-linear-gradient(top, #23282d, #191919);
+			background:-moz-linear-gradient(top, #23282d, #2840BB);
+			background:-o-linear-gradient(top, #23282d, #2840BB);
+			background:-ms-linear-gradient(top, #23282d, #2840BB);
+			background:linear-gradient(to top, #23282d, #191919);
+			width:100%; height:64px; line-height:64px; color:white;
+		}
+		#header > h2 {float:left; text-shadow:1px 1px 0px black; margin-left:20px;}
+		#header > span {float:right; margin-right:20px;}
+			#header > span a {margin-left:10px; padding:8px; background:#A0222F; border-radius:4px; border-bottom:4px solid #B32F35;}
+			#header > span a:hover {background:#B32F35; border-color:#A0222F;}
+		#header > span#menu-mobile {display:none;}
+		#header > span#search {float:none; margin:0; margin-left:20px; cursor:pointer;}
+			#header > span#search img {width:48px; vertical-align:middle; opacity:0.8;}
+			#header > span#search img:hover {-moz-transform:scale(1.09,1.09); -webkit-transform:scale(1.09,1.09); -o-transform:scale(1.09,1.09); 
+					-ms-transform:scale(1.09,1.09); transform:scale(1.09,1.09); opacity:1;}
+
+		#form_search {background:#252d32; padding:20px; position:relative; display:none;}
+			#form_search form {font-size:0;}
+			#form_search form > input {width:100%; height:50px; line-height:50px; text-indent:15px; font-size:21px;
+					border-radius:2px; background:rgba(0,0,0,0.3); color:white;}
+			ul#response {list-style:none; padding:0;}
+				#response > li {background:rgba(0,0,0,0.6); padding:0 10px;}
+				#response > li:hover {background:rgba(0,0,0,0.8);}
+				
+				#response > li.nolink > a,
+				#response > li.nolink > span {display:inline-block; font-size:12px; background:#666; padding:7px 12px; border-radius:1px;
+						color:white; margin-right:2px; cursor:pointer;}
+					#response > li.nolink > a:hover, #response > li.nolink > span:hover {background:#444;}
+					#response > li.nolink {color:#ddd; padding:8px; border-bottom:1px solid rgba(0,0,0,0.4);}
+					#response > li.nolink:last-child {border:0;}
+
+
+		#table {display:table; width:100%; height:100%; min-height:300px;}
+			#row {display:table-row;}
+				.cell {display:table-cell;}
+				.columna {width:200px; background:#23282d; height:100%;}
+					.columna > ul > li.no-click {color:#eee; font-size:16px; padding:5px 0px; text-align:center;}
+					.columna ul.clickeables {list-style:none; margin:0;}
+					.columna ul.clickeables li {border-bottom:1px solid #222;}
+					.columna ul.clickeables li a {display:block; padding:12px 10px; background:#1a1a1a; color:#ddd; font-size:15px;}
+					.columna ul.clickeables li a:hover {background:#000; color:#fff;}
+					
+					.columna > ul > li.no-click.admin {background:#142637;}
+					.columna ul.clickeables.admin {}
+					.columna ul.clickeables.admin li {border-bottom:1px solid #05151F;}
+					.columna ul.clickeables.admin li a {background:#06182A;}
+					.columna ul.clickeables.admin li a:hover {background:#000; color:#fff;}
+					
+				.cuerpo {vertical-align:middle; text-align:center;}
+				.cuerpo {vertical-align:top;} /* jk */
+		
+		#logo {max-width:100%; vertical-align:top;}
+		
+		/* DENTRO DE LAS ACCIONES */
+		
+		/* ver clientes */
+		#cuerpo_action {height:100%; text-align:left;}
+		#cabecera_action {width:90%; margin:0 auto; padding:10px; border-bottom:1px solid #dfdfdf; color:#777; font-size:14px;}
+		
+		#lista_tabla {width:90%; margin:0 auto; margin-top:20px;}
+		.lista_tabla2 {width:90%; margin:0 auto; margin-top:20px; background:#fff; padding:5px 10px; box-sizing:border-box;}
+		.lista_row {font-size:0; background:#ddd;}
+		.lista_row.cabecera {background:black;}
+		.lista_row.par {background:#eee;}
+			.lista_row > span {display:inline-block; font-size:17px; padding:12px 0; vertical-align:middle;}
+			.lista_row.cabecera > span {color:#eee;}
+			.id { width:5% }
+				.cname {width:25%}
+				.cdir {width:30%;}
+					.lista_row.inpar .cdir {background:#eee;}
+					.lista_row.par .cdir {background:#fff;}
+				.cphone {width:15%;}
+						.lista_row > span.cphone {padding:12px 5px !important; box-sizing:border-box;}
+						.lista_row > span.cphone:hover {cursor:pointer; background:rgba(255,0,0,0.1);}
+				.cemail  {width:15%;}
+					.lista_row.inpar .cemail {background:#eee;}
+					.lista_row.par .cemail {background:#fff;}
+				.actions {width:10%;}
+				.cactions {width:44%;}
+					.actions a {background:rgba(0,0,0,0.1); padding:1px; border-radius:2px;}
+					.actions a:hover {background:#B32F35;}
+					.actions img {vertical-align:top;}
+		.lista_row.par:hover,
+		.lista_row.inpar:hover {background:#999;}
+		
+.status_options {
+	font-size: 0;
+	text-align: right;
+	padding: 10px;
+	background: #eba3aa;
+	position:relative;
+}
+		
+.status_options:before {
+    content: '';
+    border: 10px solid transparent;
+    border-bottom-color: #eba3aa;
+    width: 0;
+    height: 0;
+    display: block;
+    position: absolute;
+    top: -19px;
+    right: 31.5%;
+}
+
+span.s_opt {
+    font-size: 14px;
+    display: inline-block;
+    margin-right: 8px;
+    background: #81f7f3;
+    padding: 6px 8px;
+    border-radius: 3px;
+	border-bottom: 4px solid transparent;
+}
+
+span.i_opt {
+    font-size: 14px;
+    display: inline-block;
+    margin-right: 8px;
+    background: #81f7f3;
+    padding: 6px 8px;
+    border-radius: 3px;
+	border-bottom: 4px solid transparent;
+}
+
+.proveedor, .concepto, .psi, .pci, .gactions {
+    width: 20%;
+}
+
+span.s_opt.rec {}
+span.s_opt.rep {background:#f3f781;}
+span.s_opt.repa {background:#fe2e2e;}
+span.s_opt.ent {background:#40ff00;}
+span.s_opt.gar {background:#9E9E9E;}
+span.s_opt.ele {background:#4A3E2E;}
+
+span.s_opt.nor {background:#4A1E2A; color: white;}
+span.s_opt.esp {background:#400E2E; color: white;}
+span.s_opt.presu {background:#4A1A0E; color: white;}
+
+span.i_opt.nor {background:#4A1E2A; color: white;}
+span.i_opt.rev {background:#400E2E; color: white;}
+span.i_opt.res {background:#4A1A0E; color: white;}
+
+
+.nueva_lista {
+  width: max-content;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+span.s_opt:hover {cursor:pointer; border-bottom-color:#d48b92;}
+	
+	
+				/* ver usuarios admin */
+				.cname.admin {width:35%;}
+				.cusuario.admin {width:34%;}
+				.actions.admin {width:25%;}
+
+				/* presupuestos */
+				.pname {width:35%}
+				.ppres {width:15%;}
+				.pfecha  {width:25%;}
+				.pactions {width:24%;}
+
+		/* PAGINADOR */
+		#paginador {width:90%; margin:0 auto; list-style:none; margin-top:15px;}
+			#paginador li {display:inline-block;}
+			#paginador li > .item-pag {display:inline-block; min-width:20px; height:40px; line-height:40px; text-align:center;
+					background:black; color:white; border-radius:2px; padding:0 10px;}
+			#paginador li > a.item-pag:hover {background:#222;}
+			#paginador li > .item-pag.current {background:#777;}
+			
+		/* agregar cliente */
+		form#form_edit_client {max-width:600px; margin:0 auto; margin-top:20px;}
+			#form_edit_client p {margin:0; font-size:18px; background:#999; padding:10px;}
+			#form_edit_client input[type='text'] {font-size:16px; width:100%; height:40px; line-height:40px; text-indent:10px; 
+					border-bottom:5px solid #999; margin-bottom:3px;}
+			#form_edit_client button {background:#A0222F; color:white; font-size:16px; padding:0 20px; min-width:120px; border-bottom:7px solid #B32F35;
+					height:60px; line-height:60px;}
+			#form_edit_client button:hover {cursor:pointer; background:#B32F35; border-color:#A0222F;}
+			
+		/* agregar reparacion */
+		form#form_edit_client label.accesorio {display:inline-block; margin-right:10px; margin-top:2px; border-radius:3px; background:#bbb; padding:3px 5px;}
+			#form_edit_client input.input_accesorio {max-width:400px; border:1px solid #ccc; border-radius:4px; margin-top:3px;}
+			#form_edit_client input[type='date'] {font-size:18px; width:50%; height:40px; line-height:40px; text-indent:10px; 
+					margin-bottom:3px; border:1px solid #bbb;}
+			#form_edit_client textarea {width:100%; border:1px solid #bbb; border-bottom-width:5px; margin-top:1px; min-height:120px;
+					font-size:17px; box-sizing:border-box;}
+			#form_edit_client input[type="file"] {padding:15px; margin:5px; border:1px solid #bbb;}
+			#form_edit_client input[name="idcliente"] {width:0; height:0; position:absolute; border:0;}
+			
+			#form_edit_client .rclientes {padding:1px; background:#aaa; max-height:94px; overflow-y:auto;}
+			#form_edit_client .rclientes > p {padding:4px 10px; background:#bbb; border-bottom:1px solid #ccc;}
+			#form_edit_client .rclientes > p:hover {cursor:pointer; background:#999;}
+			
+			#form_edit_client .rclientes > a.error-add-cliente {display:block; background:#B00; text-align:center; color:white;}
+			
+			
+		/* VER USUARIOS */	
+					.ulogin.admin {width:20%;}
+					.uadmin.admin {width:9%;}
+					.uname.admin {width:20%;}
+					.ufecha.admin {width:25%;}
+					.uactions.admin {width:25%;}
+			
+		/* VER FICHA */
+			.print, .send {background:#A0222F; color:white; font-size:16px; padding:0 20px; min-width:120px; border-bottom:7px solid #B32F35;
+					height:60px; line-height:60px;}
+			.print:hover {cursor:pointer; background:#B32F35; border-color:#A0222F;}
+			.send {display:inline-block; background:#2288FF; border-color:#2070CC; height:53px;}
+					.send2 {height:60px;}
+			.send:hover {background:#2070CC; border-color:#2288FF;}
+		/* editar usuario */
+			label.radio {display:inline-block; margin-top:4px; background:#ccc; padding:3px 8px; border-radius:3px;
+					cursor:pointer;}
+			#form_edit_client input[type='password'] {font-size:16px; width:100%; height:40px; line-height:40px; text-indent:10px; 
+					border-bottom:5px solid #999; margin-bottom:3px;}
+		
+		/* FILTROS EN VER REPARACIONES */
+			.filtros {width:90%; margin:0 auto; margin-top:5px; padding:8px; border-radius:2px; background:#ddd;}
+				.filtros > a {display:inline-block; background:#111; color:#eee; padding:8px 10px; border-radius:3px;}
+					.filtros > a:hover {background:#222;}
+				.filtros > a.activate {background:#555;}
+			
+/* MEDIA PARA IMPRIMIR */
+					/* sin media */
+					#areaprint {display:none;}
+			@media print {
+					body #header {display:none;}
+					body #cuerpo_action {display:none;}
+					body #table .cell.columna {display:none;}
+					
+					body #table .cell.cuerpo {display:block; width:100%; height:100%;}
+					body div#areaprint {display:block; position:absolute; top:0; left:0;}
+					body div#areaprint.facturaprint {width:100%;}
+					body div#areaprint.facturaprint * {text-align:left;}
+
+					#areaprint p.barra {border-top:1px solid #000; padding:3px;}
+					#areaprint .c28 {display:inline-block; width:28%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+					#areaprint .c70 {display:inline-block; width:70%; margin-top:2px; border:1px solid black; border-left:0; font-size:18px; padding:8px 0; text-indent:5px;}
+					
+					#areaprint .c20 {display:inline-block; width:20%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+					#areaprint .c10 {display:inline-block; width:10%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+					
+					#areaprint .c90 {display:inline-block; width:90%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px;}
+					
+					#areaprint .c29 {display:inline-block; width:29%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+					
+					#areaprint .firma {padding:1px 50px; float:right; margin-top:50px;}
+			}
+
+			/* SEND.PHP */
+			#areaprint.sendto {display:block; width:780px; margin:0 auto; height:100%; border:1px solid #444; margin-top:15px;}
+			#areaprint.sendto {display:none;} /* jk */
+			#areaprint.sendto p.barra {border-top:1px solid #000; padding:3px;}
+			#areaprint.sendto .c28 {display:inline-block; width:28%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+			#areaprint.sendto .c70 {display:inline-block; width:70%; margin-top:2px; border:1px solid black; border-left:0; font-size:18px; padding:8px 0; text-indent:5px;}
+			
+			#areaprint.sendto .c20 {display:inline-block; width:20%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+			#areaprint.sendto .c10 {display:inline-block; width:10%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+			
+			#areaprint.sendto .c90 {display:inline-block; width:90%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px;}
+			
+			#areaprint.sendto .c29 {display:inline-block; width:29%; margin-top:2px; border:1px solid black; font-size:18px; padding:8px 0; text-indent:5px;}
+			
+			#areaprint.sendto .firma {padding:1px 50px; float:right; margin-top:50px;}
+			
+            .ticket {
+                background: blueviolet;
+                border-bottom: 7px solid #924bd5;
+                color: white;
+                font-size: 16px;
+                padding: 0 20px;
+                min-width: 120px;
+                line-height: 60px;
+                margin-right: 4px;
+            }			
+
+			
+			/* MEDIAS QUERIES */
+			@media(max-width:800px) {
+					#table,
+					#row,
+					.cell {display:block;}
+					
+					.columna {display:block; position:absolute; top:64px; left:-201px; z-index:9999; height:auto; min-height:800px;}
+					
+					.cuerpo {margin-top:20px;}
+					#header > h2 {display:none;}
+					
+					#header > span {margin-right:5px;}
+					#header > span > span {display:none;}
+					#header > span#menu-mobile {display:inline-block; padding:0 4px; background:#090909; float:none; height:50px; margin-left:10px;
+							border-radius:6px; vertical-align:middle;}
+						#header > span#menu-mobile:hover {cursor:pointer; background:#000;}
+					#header > span#search {margin-left:0;}
+					
+					
+					/* ver clientes */
+					#lista_tabla {overflow-x:auto;}
+					.lista_row {padding:10px 0; min-width:680px;}
+						.lista_row > span {font-size:18px; padding:0;}
+						.id { width:10% }
+							.cname {width:44%}
+							.cphone {width:20%;}
+							.cemail  {width:35%;}
+							.cactions, .actions {width:100%;}
+								.cactions a, .actions a {margin:1px 15px 1px 0; display:inline-block; text-indent:0;}
+								.cactions img, .actions img {width:40px; height:40px;}
+					
+					/* ADMIN USUARIOS */	
+						.ulogin.admin {width:30%;}
+						.uadmin.admin {width:9%;}
+						.uname.admin {width:35%;}
+						.ufecha.admin {width:25%;}
+						.uactions.admin {width:100%;}
+							.uactions a {margin:1px 15px 1px 0; display:inline-block; text-indent:0;}
+								.uactions img {width:40px; height:40px;}
+
+					/* filtros en ver reparaciones */
+					.filtros strong {display:block;}
+						.filtros > a {padding:15px 0; width:49%; margin:1px; text-align:center;}
+			}
+
+			@media(max-width:480px) {
+				#response > li.nolink {padding:8px 0;}
+
+				#response > li.nolink > a,
+				#response > li.nolink > span {width:49%; text-align:center; padding:15px 0; font-size:16px;}
+
+				.filtros > a {width:48%;}
+			}

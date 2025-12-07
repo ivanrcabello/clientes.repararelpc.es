@@ -1,0 +1,8 @@
+# BEGIN RN PHP_VERSION
+<IfModule mime_module>
+    AddHandler application/x-httpd-alt-php71___lsphp .php
+</IfModule>
+# END RN PHP_VERSION
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

@@ -1,0 +1,452 @@
+[08-Aug-2024 12:41:26 Europe/Madrid] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/reparare/clientes.repararelpc.es/fPDF/fpdf.php on line 1043
+[08-Aug-2024 12:41:26 Europe/Madrid] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/reparare/clientes.repararelpc.es/PHPMailer/PHPMailerAutoload.php on line 45
+[09-Aug-2024 09:41:41 Europe/Madrid] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/reparare/clientes.repararelpc.es/fPDF/fpdf.php on line 1043
+[09-Aug-2024 09:41:41 Europe/Madrid] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/reparare/clientes.repararelpc.es/PHPMailer/PHPMailerAutoload.php on line 45
+[09-Aug-2024 10:58:26 Europe/Madrid] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/reparare/clientes.repararelpc.es/fPDF/fpdf.php on line 1043
+[09-Aug-2024 10:58:26 Europe/Madrid] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/reparare/clientes.repararelpc.es/PHPMailer/PHPMailerAutoload.php on line 45
+[12-Aug-2024 11:59:25 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:48:42 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:57:21 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:57:22 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:57:22 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:57:42 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:57:58 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:58:00 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:58:17 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:58:23 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 19:59:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[12-Aug-2024 19:59:33 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 20:01:28 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 20:01:33 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 20:07:10 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 20:07:19 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 20:07:19 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 20:07:38 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 20:17:04 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 20:26:59 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 20:27:44 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 20:27:59 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 20:28:06 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 20:28:10 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 20:34:51 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[12-Aug-2024 20:34:54 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 20:35:11 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_row(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php:117
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php(117): mysqli_fetch_row()
+#1 /home/reparare/clientes.repararelpc.es/panel_include.php(76): include('/home/reparare/...')
+#2 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#3 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/action/ver_reparaciones.php on line 117
+[12-Aug-2024 21:12:41 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:14:43 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:15:44 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:15:53 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:16:23 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:20:46 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:21:05 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:21:15 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:21:17 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:21:21 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:21:30 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:21:32 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:31:25 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:43:12 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:43:15 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:44:50 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 21:44:54 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:06:39 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:07:26 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:07:30 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:07:33 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:07:35 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:07:50 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:07:57 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:08:34 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[12-Aug-2024 22:08:58 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[13-Aug-2024 04:52:36 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[13-Aug-2024 06:02:04 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[13-Aug-2024 06:02:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[13-Aug-2024 10:11:24 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[13-Aug-2024 10:11:37 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[13-Aug-2024 10:14:31 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[13-Aug-2024 10:15:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[13-Aug-2024 10:15:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[13-Aug-2024 10:15:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[13-Aug-2024 10:15:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[13-Aug-2024 10:16:16 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[13-Aug-2024 10:16:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[13-Aug-2024 10:16:23 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[13-Aug-2024 10:30:48 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[13-Aug-2024 10:30:48 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[13-Aug-2024 10:30:48 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[13-Aug-2024 10:30:48 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[13-Aug-2024 10:31:18 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[13-Aug-2024 10:44:32 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel-cliente.php on line 5
+[13-Aug-2024 10:50:43 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[13-Aug-2024 11:01:47 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[13-Aug-2024 11:02:57 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[13-Aug-2024 11:02:57 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[13-Aug-2024 11:02:57 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[13-Aug-2024 11:02:57 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[13-Aug-2024 11:03:26 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[13-Aug-2024 13:03:35 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[13-Aug-2024 13:04:09 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[13-Aug-2024 13:04:09 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[13-Aug-2024 13:04:09 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[13-Aug-2024 13:04:09 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[13-Aug-2024 13:04:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[13-Aug-2024 13:41:45 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[14-Aug-2024 09:31:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[14-Aug-2024 09:33:02 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[14-Aug-2024 09:33:02 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[14-Aug-2024 09:33:02 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[14-Aug-2024 09:33:02 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[14-Aug-2024 09:33:41 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[14-Aug-2024 09:33:46 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_runtime() in /home/reparare/clientes.repararelpc.es/fPDF/fpdf.php:1043
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/fPDF/fpdf.php(77): FPDF->_dochecks()
+#1 /home/reparare/clientes.repararelpc.es/action/send.php(326): FPDF->__construct()
+#2 /home/reparare/clientes.repararelpc.es/panel_include.php(104): include('/home/reparare/...')
+#3 /home/reparare/clientes.repararelpc.es/panel.php(29): require('/home/reparare/...')
+#4 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/fPDF/fpdf.php on line 1043
+[14-Aug-2024 10:27:44 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[14-Aug-2024 10:28:21 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[14-Aug-2024 10:28:21 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[14-Aug-2024 10:28:21 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[14-Aug-2024 10:28:21 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[14-Aug-2024 10:28:42 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[14-Aug-2024 11:35:08 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/panel.php on line 5
+[14-Aug-2024 11:35:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[14-Aug-2024 11:35:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[14-Aug-2024 11:35:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[14-Aug-2024 11:35:53 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[14-Aug-2024 11:36:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[14-Aug-2024 11:37:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/admin_edit_cliente.php on line 26
+[14-Aug-2024 11:37:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/admin_edit_cliente.php on line 27
+[14-Aug-2024 11:37:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/admin_edit_cliente.php on line 28
+[14-Aug-2024 11:37:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/admin_edit_cliente.php on line 29
+[14-Aug-2024 11:37:30 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/admin_edit_cliente.php on line 30
+[14-Aug-2024 12:17:51 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 4
+[14-Aug-2024 12:17:51 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 7
+[14-Aug-2024 12:17:51 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 8
+[14-Aug-2024 12:17:51 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_cliente.php on line 9
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 9
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 10
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 12
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 14
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 16
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 17
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 22
+[14-Aug-2024 12:18:16 Europe/Madrid] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/reparare/clientes.repararelpc.es/action/add_reparacion.php on line 28
+[14-Aug-2024 13:44:46 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[14-Aug-2024 18:12:59 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[14-Aug-2024 18:13:01 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
+[15-Aug-2024 09:25:40 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mysqli_free_result(): Argument #1 ($result) must be of type mysqli_result, null given in /home/reparare/clientes.repararelpc.es/registrar-datos.php:662
+Stack trace:
+#0 /home/reparare/clientes.repararelpc.es/registrar-datos.php(662): mysqli_free_result()
+#1 {main}
+  thrown in /home/reparare/clientes.repararelpc.es/registrar-datos.php on line 662
